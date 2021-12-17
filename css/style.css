@@ -16,6 +16,7 @@
 	font-size: 20px;
 	margin: 17px;
 	margin-left: 30px;
+	font-family: "fonts.css", sans-serif;
 }
 img{
 	margin-right: 40px;
@@ -27,6 +28,7 @@ img{
 	display: inline-block;
 	width: 930px;
 	vertical-align: middle;
+	font-family: "bpg-nino-mtavruli", sans-serif;
 }
 
 .title-adition{
@@ -48,6 +50,7 @@ img{
 .conteiner{
 	width: 1170;
 	margin: 0 100px;
+
 
 }
 h4{
@@ -78,6 +81,7 @@ p{
 .contact-block{
 	margin: 111px 1018px 421px 97px;
 	line-height: 23px;
+	font-family: 'Roboto', sans-serif;
 
 
 }
