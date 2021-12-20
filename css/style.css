@@ -80,9 +80,10 @@ footer{
 	margin-bottom: 10px;
 }
 .contact-block{
-	margin: 111px 1018px 421px 97px;
+	margin: 111px 500px 421px 97px;
 	line-height: 23px;
 	font-family: 'Roboto', sans-serif;
+	display: inline-block;
 
 
 }
@@ -107,12 +108,16 @@ footer{
 	margin-top: 11px;
 	margin-bottom: 33px;
 	padding-top: 39px;
+	display: inline-block;
 }
 .map{
 	display: inline-block;
-	width: 849px;
-	height: 464px;
+	width: 700px;
+	height: 400px;
 	vertical-align: top;
+
 }
+
+
 
 
